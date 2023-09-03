@@ -23,6 +23,12 @@ dist-ssr
 *.sln
 *.sw?
 
-src/features
-src/services
-src/hooks
+src/features/bookings
+src/features/check-in-out
+src/features/dashboard
+src/features/guests
+src/features/settings
+
+src/services/apiBookings.js
+src/services/apiSettings.js
+
