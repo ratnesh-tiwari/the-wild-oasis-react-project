@@ -26,9 +26,6 @@ dist-ssr
 
 src/features/check-in-out
 src/features/dashboard
-src/features/guests
-src/features/settings
 
 
-src/services/apiSettings.js
 
