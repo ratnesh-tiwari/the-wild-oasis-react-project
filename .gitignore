@@ -24,7 +24,5 @@ dist-ssr
 *.sw?
 
 
-src/features/check-in-out
-
 
 
